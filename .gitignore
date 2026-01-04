@@ -1,0 +1,21 @@
+# Model weights
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# Tokenizer binaries
+*.model
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# Secrets
+.env
+
+# OS junk
+.DS_Store
